@@ -1,1 +1,3 @@
+Dentro deste diretório, estarei demonstrando um exemplo de criptografia híbrida.
 
+A criptografia híbrida, você gera uma chave simétrica aleatória, criptografa a mensagem com essa chave. Em seguida, criptografa essa chave, com RSA (isto é o básico).
