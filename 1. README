@@ -9,5 +9,4 @@ O arquivo "RSA.java", demonstra como criptografar e descriptografar usando o alg
 O RSA (Rivest-Shamir-Adleman), é um criptosistema de chave assimétrica, onde uma chave é usada para criptografar (chave pública) e outra para descriptografar (chave privada).
 Ele possui chaves em tamanhos: 512-bits, 1024-bits, 2048-bits e 4096-bits.
 
-Por último, temos "Hybrid-Cryptosystem.java". Cujo é um esquema, onde combina os algoritmos AES e RSA.
-Você gera um par de chaves aleatórios AES e RSA. Em seguida criptografa a mensagem com a chave simétrica de cifra. Depois criptografa a chave simétrica, com RSA.
+Por último, temos "SHA512.java". Onde é um processo matemático, de você gerar um hash, a partir de uma string.
